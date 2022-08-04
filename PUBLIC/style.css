@@ -1,0 +1,79 @@
+
+
+*{
+    font-family: 'Mouse Memoirs', sans-serif;
+
+}
+
+.container{
+    background-color: rgb(185, 200, 228);
+    border-radius: 40px;
+    border:3px solid rgb(191, 79, 191)
+}
+
+
+.heading{
+    font-size: 3rem;
+    color:rgb(191, 79, 191);
+}
+
+.timer{
+   
+    /* border-radius:10px ; */
+    background-color: rgb(118, 118, 238);
+  
+}
+
+h1{
+font-size:  5rem;
+}
+
+.input{
+    display: block;
+    height: auto;
+    width: auto;
+    font-size: 1.5rem;
+    border: solid;
+    border-radius:30px;
+}
+
+button{
+border:none;
+background-color: rgb(178, 218, 242);
+padding: 10px;
+margin: 5px;
+border-radius:5px ;
+}
+
+.input{
+    display:flex;
+    justify-content: center;
+    border: transparent;
+
+}
+
+input::placeholder{
+    color:rgb(148, 148, 222);
+   
+}
+
+
+#start{
+    padding: 10px;
+    font-size: 1.5rem;
+    border: none;
+    text-transform: uppercase;
+    color: white;
+    background-color:rgb(191, 79, 191);
+}
+
+
+
+
+
+
+
+
+
+
+
